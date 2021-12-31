@@ -1,3 +1,3 @@
 # Github Profile Finder
 
-# live-demo:
+# live-demo: https://raydcode.github.io/github-Profile-Finder/
